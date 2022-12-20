@@ -1,0 +1,263 @@
+
+%ic {
+	font-family: "icon";
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+[class*="_icon-"] {
+	&::before {
+		@extend %ic;
+		display: block;
+	}
+}
+
+._icon-line:before {
+  content: "\e946";
+  color: #fff;
+}
+._icon-arr-Stroke:before {
+  content: "\e945";
+  color: #ffd02b;
+}
+._icon-info:before {
+  content: "\e944";
+  color: #ffc93e;
+}
+._icon-fix:before {
+  content: "\e943";
+  color: #fff;
+}
+._icon-photo:before {
+  content: "\e942";
+  color: #8f8fa6;
+}
+._icon-toSend:before {
+  content: "\e93d";
+}
+._icon-read:before {
+  content: "\e940";
+  color: #40e277;
+}
+._icon-toFix:before {
+  content: "\e941";
+}
+._icon-documentation:before {
+  content: "\e93c";
+  color: #7c85b4;
+}
+._icon-zoom:before {
+  content: "\e93b";
+  color: #32296b;
+}
+._icon-briefcase:before {
+  content: "\e93a";
+  color: #fff;
+}
+._icon-delete1:before {
+  content: "\e936";
+  color: #fff;
+}
+._icon-true:before {
+  content: "\e935";
+  color: #fff;
+}
+._icon-acc4:before {
+  content: "\e92d";
+  color: #fff;
+}
+._icon-acc3:before {
+  content: "\e934";
+  color: #fff;
+}
+._icon-acc2:before {
+  content: "\e92b";
+  color: #fff;
+}
+._icon-acc1:before {
+  content: "\e92c";
+  color: #fff;
+}
+._icon-date:before {
+  content: "\e92a";
+  color: #909ebc;
+}
+._icon-chat:before {
+  content: "\e928";
+  color: #f2f3f8;
+}
+._icon-magnifier:before {
+  content: "\e926";
+  color: #9ba0a9;
+}
+._icon-arrowStroke:before {
+  content: "\e93f";
+  color: #798899;
+}
+._icon-Union-10:before {
+  content: "\e929";
+  color: #6163f9;
+}
+._icon-delete:before {
+  content: "\e93e";
+  color: #e24a4a;
+}
+._icon-city:before {
+  content: "\e939";
+  color: #6163f9;
+}
+._icon-add1-active:before {
+  content: "\e938";
+  color: #ffc93e;
+}
+._icon-add1-stroke:before {
+  content: "\e937";
+  color: #4b6489;
+}
+._icon-heart-stroke:before {
+  content: "\e925";
+  color: #4b6489;
+}
+._icon-check:before {
+  content: "\e924";
+  color: #fff;
+}
+._icon-Group-4:before {
+  content: "\e927";
+  color: #32296b;
+}
+._icon-toShare:before {
+  content: "\e92e";
+  color: #4b6489;
+}
+._icon-on:before {
+  content: "\e92f";
+}
+._icon-Vector-20:before {
+  content: "\e930";
+  color: #32296b;
+}
+._icon-Vector-21:before {
+  content: "\e931";
+  color: #32296b;
+}
+._icon-calendar:before {
+  content: "\e932";
+  color: #35456d;
+}
+._icon-arrow1:before {
+  content: "\e933";
+
+}
+._icon-settings:before {
+  content: "\e920";
+}
+._icon-map:before {
+  content: "\e923";
+}
+._icon-heart3:before {
+  content: "\e91a";
+}
+._icon-views:before {
+  content: "\e915";
+}
+._icon-setting:before {
+  content: "\e919";
+}
+._icon-save:before {
+  content: "\e91b";
+}
+._icon-add2:before {
+  content: "\e91c";
+}
+._icon-noimg:before {
+  content: "\e91d";
+}
+._icon-Vector1:before {
+  content: "\e91e";
+}
+._icon-Vector3:before {
+  content: "\e91f";
+}
+._icon-Vector6:before {
+  content: "\e921";
+}
+._icon-Vector8:before {
+  content: "\e922";
+}
+._icon-select:before {
+  content: "\e910";
+}
+._icon-walking:before {
+  content: "\e90e";
+}
+._icon-location:before {
+  content: "\e907";
+}
+._icon-search:before {
+  content: "\e908";
+}
+._icon-heart1:before {
+  content: "\e909";
+}
+._icon-add:before {
+  content: "\e90a";
+}
+._icon-profileMain:before {
+  content: "\e90b";
+}
+._icon-notification:before {
+  content: "\e90c";
+}
+._icon-plus1:before {
+  content: "\e90d";
+}
+._icon-initial:before {
+  content: "\e90f";
+}
+._icon-search1:before {
+  content: "\e912";
+}
+._icon-location1:before {
+  content: "\e913";
+}
+._icon-logotip:before {
+  content: "\e914";
+}
+._icon-heart:before {
+  content: "\e916";
+}
+._icon-message:before {
+  content: "\e917";
+}
+._icon-close1:before {
+  content: "\e918";
+}
+._icon-profile:before {
+  content: "\e906";
+}
+._icon-plus:before {
+  content: "\e901";
+}
+._icon-sleep:before {
+  content: "\e900";
+}
+._icon-logo:before {
+  content: "\e905";
+}
+._icon-open:before {
+  content: "\e904";
+}
+._icon-stop:before {
+  content: "\e902";
+}
+._icon-close:before {
+  content: "\e903";
+}
+._icon-arrow:before {
+  content: "\e911";
+}
